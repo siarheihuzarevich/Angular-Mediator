@@ -1,0 +1,16 @@
+{
+  "name": "@foblex/mediator",
+  "version": "1.0.0",
+  "description": "Angular Mediator",
+  "keywords": ["angular", "mediator", "cqrs"],
+  "license": "MIT",
+  "author": "Siarhei Huzarevich",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
